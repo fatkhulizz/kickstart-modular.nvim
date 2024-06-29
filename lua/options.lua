@@ -65,5 +65,7 @@ vim.opt.ts = 4
 
 vim.opt.rnu = true
 vim.opt.confirm = true
+vim.opt.laststatus = 3
+vim.opt.cmdheight = 0
 
 -- vim: ts=2 sts=2 sw=2 et
